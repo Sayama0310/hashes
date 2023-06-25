@@ -1,3 +1,7 @@
+use crate::constant_table::show_constant_table;
+
+mod constant_table;
+
 fn main() {
-    println!("Hello, world! MD5");
+    show_constant_table();
 }

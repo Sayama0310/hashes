@@ -3,3 +3,7 @@
 # For IDEA
 
 .idea/
+
+# For private documents.
+
+PRIVATE.md
